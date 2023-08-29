@@ -1,6 +1,6 @@
 <img src="images/ssy340.svg" alt="Github header">
 
-#SSY340 Deep Machine Learning
+# SSY340 Deep Machine Learning
 
 This repository contains material for the course SSY340 Deep Machine Learning from Chalmers University of Technology.
 
