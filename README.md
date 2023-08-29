@@ -1,5 +1,19 @@
-<img src="images/ssy340.svg" alt="Header image">
+<img src="images/ssy340.svg" alt="Github header">
+# SSY340 Deep Machine Learning
 
-<h1>SSY340 - Deep Machine Learing</h1>
+This repository contains material for the course SSY340 Deep Machine Learning from Chalmers University of Technology.
 
-<p>this GitHub repo contaions material created in the course SSY340 Deep Machine Learning</p>
+**Course year**: 2023
+
+**By**: Nicholas Granlund
+
+## IHA1:
+
+Topics:
+
+- Introduction to **Numpy** library in Python
+- Building of **Deep Neural Network**
+- **Activation Functions**, eg ReLU, Sigmoid, tanh
+- **Softmax** activation function / final layer for classification
+- Feedforward and Backpropagation
+- Logistic regression
