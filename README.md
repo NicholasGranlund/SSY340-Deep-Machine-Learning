@@ -18,3 +18,5 @@ Topics:
 - **Softmax** activation function / final layer for classification
 - Feedforward and Backpropagation
 - Logistic regression
+
+[//]: # "Header logo size: 990 x 140, fontname: Verdana, Fontsize: 32"
